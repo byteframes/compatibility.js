@@ -3,6 +3,7 @@ Just all functions like `Array.prototype.map` or `Function.prototype.bind` colle
 Collect date: 07/Sep/2011
 
 Full list of functions:
+
  - [Array.prototype.indexOf](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/indexOf)
  - [Array.prototype.lastIndexOf](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/lastIndexOf)
  - [Array.prototype.filter](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/filter)
